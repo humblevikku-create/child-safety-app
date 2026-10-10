@@ -1,0 +1,7 @@
+-keep class com.childsafety.app.** { *; }
+-keep class io.socket.** { *; }
+-keep class okhttp3.** { *; }
+-keep class com.google.android.gms.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-dontwarn io.socket.**
