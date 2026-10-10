@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Child Safety</string>
+    <string name="accessibility_desc">Helps parents block apps and track screen time for child safety.</string>
+</resources>
